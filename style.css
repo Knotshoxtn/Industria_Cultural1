@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(216, 205, 197);
+}
+
+body {
+    background: linear-gradient(to right, rgb(216, 205, 197), rgb(240, 240, 240));
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 136, 0);
+}
+h1, h3 {
+    margin: 20px 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+img {
+    border: 5px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+}
+
+iframe { 
+    border: 10px solid rgb(200, 200, 200);
+    border-radius: 20px;
+    border-width: 20px;
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2); 
+    display: block; 
+    margin: 0 auto; 
+} 
